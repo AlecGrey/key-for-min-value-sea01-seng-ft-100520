@@ -3,5 +3,6 @@
 
 def key_for_min_value(name_hash)
   key = ""
-  
+  val = Infinity
+  name_hash.each do |key, value|
 end
